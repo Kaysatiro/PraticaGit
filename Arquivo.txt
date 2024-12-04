@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+alterei
+=======
 pessoa 2
+>>>>>>> 1c7477624fc45db8dc40747d6319349f09b8e083
 teste
