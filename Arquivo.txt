@@ -2,3 +2,8 @@ alterei
 pessoa 2
 teste
 Mais um teste
+
+#include <stdio.h>
+    int main() {
+        printf("Hello");
+    }
